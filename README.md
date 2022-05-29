@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-A simple Rock Paper Scissors game created in tkinter.
+A simple Rock Paper Scissors game created in Tkinter.
